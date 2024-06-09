@@ -19,7 +19,8 @@
 	<snake.h>
 	<apple.h>
 
-1717594059 source:/home/jumpingballs/Documents/project/SnakeGame/src/apple.cpp
+1717974967 source:/home/jumpingballs/Documents/project/SnakeGame/src/apple.cpp
+	<SFML/Graphics.hpp>
 	<apple.h>
 	<cstdlib>
 	<ctime>

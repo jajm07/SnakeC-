@@ -1,3 +1,4 @@
+#include <SFML/Graphics.hpp>
 #include <apple.h>
 #include <cstdlib>
 #include <ctime>
