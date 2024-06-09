@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1717610144 source:/home/jumpingballs/Documents/project/SnakeGame/main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<snake.h>
+	<apple.h>
+
+1717594523 /home/jumpingballs/Documents/project/SnakeGame/include/snake.h
+	<SFML/Graphics.hpp>
+	<list>
+	<iostream>
+	<apple.h>
+
+1717594059 source:/home/jumpingballs/Documents/project/SnakeGame/src/snake.cpp
+	<SFML/Graphics.hpp>
+	<list>
+	<iostream>
+	<snake.h>
+	<apple.h>
+
+1717594059 source:/home/jumpingballs/Documents/project/SnakeGame/src/apple.cpp
+	<apple.h>
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1717595529 /home/jumpingballs/Documents/project/SnakeGame/include/apple.h
+	<SFML/Graphics.hpp>
+
